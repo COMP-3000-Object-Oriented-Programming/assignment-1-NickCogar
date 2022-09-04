@@ -5,10 +5,10 @@ using namespace std;
 
 int main() {
 
-    int a; 
+    int b;
     cout << "enter a number" << endl; 
-    cin >> a; 
-    cout << "output: " << a * a; 
+    cin >> b;
+    cout << "output: " << b * b;
 
     return 0; 
 
